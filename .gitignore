@@ -1,0 +1,9 @@
+.DS_Store
+Makefile
+_build/*
+_static/*
+_templates/*
+make.bat
+wip/*
+*.swp
+*.sh
