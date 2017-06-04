@@ -52,12 +52,5 @@
 
 感謝所有給予建議、支持以及熱心指出錯誤的朋友。
 
-特別感謝 huangz1990 和馮迪這兩位朋友一路以來的鼓勵與幫助。
-
-## 其他问题
-
-寄信到 huangz1990 或 katehuang0320 的 gmail。
-
-
 [byv]: https://github.com/byvoid
 [occ]: https://github.com/byvoid/opencc
